@@ -1,6 +1,6 @@
 # Bonginkosi or just... Nkosi🤴🏾
 
-**'<img align="left" alt= "Swift" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> Digital Craftsman (iOS Software Developer/Engineer? 🤔🤷🏾‍♂️) '**
+**'🍏's Digital Craftsman (iOS Software Developer/Engineer? 🤔🤷🏾‍♂️) '**
 
 👋 About Me
 
@@ -22,7 +22,7 @@ I thrive on applying general business principles to real-life scenarios, conjuri
   <img align="left" alt= "GitHub" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
   <img align="left" alt= "ATOM Editor" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" />
   <img align="left" alt= "Postman" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>          
-  <img align="left" alt= "Zsh" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" />
+  <img align="left" alt= "Zsh" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
   <img align="left" alt= "Firebase" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
   <img align="left" alt= "Intellij" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />        
   <img align="left" alt= "MongoDB" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
@@ -30,6 +30,8 @@ I thrive on applying general business principles to real-life scenarios, conjuri
   <img align="left" alt= "Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
                               
   #      
+           
+          
        
           
           
