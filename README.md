@@ -4,7 +4,7 @@
 
 👋 About Me
 
-I'm a BSc Honours Degree student, that is a passionate and driven iOS Developer 📱 with exceptional interpersonal skills, eager to tackle new challenges and further immerse myself in the dynamic realm of mobile app development. 🚀 Equipped with a diverse skill set spanning Swift, SwiftUI, UIKit, and more, I am committed to crafting innovative apps that push the boundaries of possibility. 💡
+I'm a Software Developer, that is a passionate about iOS Development 📱 with exceptional interpersonal skills, eager to tackle new challenges and further immerse myself in the dynamic realm of mobile app development. 🚀 Equipped with a diverse skill set spanning Swift, SwiftUI, UIKit, and more, I am committed to crafting innovative apps that push the boundaries of possibility. 💡
 
 I thrive on applying general business principles to real-life scenarios, conjuring creative solutions to complex problems. 🎨 If you're seeking a results-oriented, highly skilled iOS Developer to bolster your team, let's connect! 🤝 Let's discuss how I can contribute to your organization's success. 🌟
 
